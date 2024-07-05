@@ -6,7 +6,7 @@
 - Offensive Research & Exploitation
 
 ### Affiliation
-- Memboer of __TeamH4C__ (2022.05. ~ ) 
+- Member of __TeamH4C__ (2022.05. ~ ) 
 - Member of __TOOR__ (2022.02. ~ )
 - Mandatory military service @ ROKAFA as Infosec Specialist (2022.02. ~ 2023.11.)
 - Undergrad @ __SCH__ , Information Security Major
