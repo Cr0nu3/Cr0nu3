@@ -11,18 +11,21 @@
 - Mandatory military service @ ROKAFA as Infosec Specialist (2022.02. ~ 2023.11.)
 - Undergrad @ __SCH__ , Information Security Major
 
-### Competitions
+### Competition
+<details> <summary>🏅 Click Here 🏅</summary>
 - HackTheon 2024 Finalist ( Team_ Toorist )
 - DEFCON 32 QUALS 26th ( Team_ budaejjigae )
 - damCTF 2024 9th, Finalist ( Team_ budaejjigae )
 - Hackfest 2024 Finalist ( Team_ Tourist )
 - Whitehat Contest 2022 4th, Finalist ( Team_ 아니다싶으면밥먹으러감 )
 - CCE 2022 17th, General Division ( Team_ PoC )
+</details>
 
 ### Bug Bounty
 #### Microsoft Skype
-- RCE (Valid report but no bounty or CVE :( )
+- RCE (Valid report but no bounty or CVE)
 #### Wordpress Plugin CVE
+<details> <summary>🏅 Click Here 🏅</summary>
 - CVE-2024-30554, CVE-2024-31119, CVE-2024-30553, CVE-2024-30545,
 - CVE-2024-31344, CVE-2024-31387, CVE-2024-32083, CVE-2024-32428,
 - CVE-2024-32591, CVE-2024-4433, CVE-2024-34423, CVE-2024-33943,
@@ -31,8 +34,10 @@
 - CVE-2024-35756, CVE-2024-4433, CVE-2024-37523, CVE-2024-37536,
 - CVE-2024-37549, CVE-2024-37558, ...
 - Pending CVE
+</details>
+
 #### Jeju Pass
-- Reflected XSS (Duplicated :( )
+- Reflected XSS (Duplicated 😢)
 
 ### Organization
 - 2021 YISF (Youth Information Security Festival)
