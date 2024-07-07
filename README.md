@@ -27,11 +27,9 @@
 
 
 ### [ Bug Bounty ]
-#### - Microsoft Skype
+#### Microsoft Skype
 - RCE (Valid report but no bounty or CVE)
-#### - Wordpress Plugin CVE
-<details> <summary> 💰 CVEs </summary>
-  
+#### Wordpress Plugin CVE
 - CVE-2024-30554, CVE-2024-31119, CVE-2024-30553, CVE-2024-30545,
 - CVE-2024-31344, CVE-2024-31387, CVE-2024-32083, CVE-2024-32428,
 - CVE-2024-32591, CVE-2024-4433, CVE-2024-34423, CVE-2024-33943,
@@ -40,8 +38,7 @@
 - CVE-2024-35756, CVE-2024-4433, CVE-2024-37523, CVE-2024-37536,
 - CVE-2024-37549, CVE-2024-37558, ...
 - Pending CVE
-
-</details>
+  
 
 #### Jeju Pass
 - Reflected XSS (Duplicated 😢)
