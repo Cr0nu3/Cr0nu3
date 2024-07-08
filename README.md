@@ -1,4 +1,4 @@
-## Cr0nu3 (a.k.a Cronus)
+## Cronus
 
 ### [ Interests ]
 - WEB Security
