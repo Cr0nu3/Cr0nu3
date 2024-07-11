@@ -30,6 +30,7 @@
 #### Microsoft Skype
 - [RCE](https://github.com/Cr0nu3/RCE_Exploit_in_Microsoft_Skype) (Valid report but no bounty or CVE)
 #### Wordpress Plugin CVE
+  [Profile](https://patchstack.com/database/researcher/95805911-7466-482a-8c46-58bfb026a8a0)
 - CVE-2024-30554, CVE-2024-31119, CVE-2024-30553, CVE-2024-30545,
 - CVE-2024-31344, CVE-2024-31387, CVE-2024-32083, CVE-2024-32428,
 - CVE-2024-32591, CVE-2024-4433, CVE-2024-34423, CVE-2024-33943,
