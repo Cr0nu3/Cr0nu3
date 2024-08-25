@@ -14,8 +14,6 @@
 
 
 ### [ Competition ]
-<details> <summary>🏅 </summary>
-  
 - HackTheon 2024 Finalist ( Team_ Toorist )
 - DEFCON 32 QUALS 26th ( Team_ budaejjigae )
 - damCTF 2024 9th, Finalist ( Team_ budaejjigae )
@@ -23,7 +21,6 @@
 - Whitehat Contest 2022 4th, Finalist ( Team_ 아니다싶으면밥먹으러감 )
 - CCE 2022 17th, General Division ( Team_ PoC )
   
-</details>
 
 
 ### [ Bug Bounty ]
