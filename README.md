@@ -14,7 +14,8 @@
 
 
 ### [ Competition ]
-- Chungcheong Region Cybersecurity Competition, Winner 5th place( Team_ 염승빈여친아랴짱 ) | 충청권 사이버보안 경진대회 장려상
+- The 6th TS “Find the Security Vulnerability” Competition, 2nd place ( Team_ TS(TypeScript) 큭큭.. ) | 제6회_TS_보안_허점을_찾아라 우수상
+- Chungcheong Region Cybersecurity Competition, Winner 5th place ( Team_ 염승빈여친아랴짱 ) | 충청권 사이버보안 경진대회 장려상
 - HackTheon 2024 Finalist ( Team_ Toorist )
 - DEFCON 32 QUALS 26th ( Team_ budaejjigae )
 - damCTF 2024 9th, Finalist ( Team_ budaejjigae )
@@ -49,7 +50,8 @@
 
 
 ### [ ETC ]
-- (KITRI) Best of Best 13th
+- 2025 GCC(Global Cyber Camp) Taiwan Trainee
+- Best of Best 13th (KITRI) 
 - Ethical Hacker Training Program (organized by NIS) | 윤리적 해커 양성 5기 교육생 (국정원 주관)
 - Dreamhack Community Mentor (2023.05 ~ )
 - PatchDay verified Bug hunter (2023.07 ~ )
