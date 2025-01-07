@@ -26,16 +26,16 @@
 
 
 ### [ Bug Bounty ]
-#### Microsoft Skype
+#### <u>Microsoft Skype</u>
 - [RCE](https://github.com/Cr0nu3/RCE_Exploit_in_Microsoft_Skype) (Valid report but no bounty or CVE)
 
-#### RAG & LLM (Retrieval-Augmented Generation)
-[RCE, SQLi, SSRF, DoS, XSS] 
+#### <u>RAG & LLM (Retrieval-Augmented Generation)</u>
+- RCE & SQLi & SSRF & DoS & XSS
 - CVE-2024-12910, CVE-2025-0184, CVE-2024-12909, CVE-2024-12911,
 - CVE-2024-11958, CVE-2024-12704, CVE-2024-11824, CVE-2024-11850,
 - Pending CVE
 
-#### Wordpress Plugin CVE
+#### <u>Wordpress Plugin CVE</u>
   [Profile](https://patchstack.com/database/researcher/95805911-7466-482a-8c46-58bfb026a8a0)
 - CVE-2024-30554, CVE-2024-31119, CVE-2024-30553, CVE-2024-30545,
 - CVE-2024-31344, CVE-2024-31387, CVE-2024-32083, CVE-2024-32428,
@@ -48,7 +48,7 @@
 - Pending CVE
   
 
-#### Jeju Pass
+#### <u>Jeju Pass</u>
 - Reflected XSS (Duplicated 😢)
 
 
