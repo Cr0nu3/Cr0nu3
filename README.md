@@ -1,7 +1,7 @@
 ## Cronus
 
 ### [ Interests ]
-- WEB Security
+- WEB Security & Reverse Engineering
 - Fuzzing
 - Offensive Research & Exploitation
 
