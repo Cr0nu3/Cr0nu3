@@ -14,6 +14,7 @@
 
 
 ### [ Competition ]
+- Global Cyber Camp 2025 1st Team (Team_ Group2 )| GCC2025 프로젝트 1등 팀
 - The 6th TS “Find the Security Vulnerability” Competition, 2nd place ( Team_ TS(TypeScript) 큭큭.. ) | 제6회_TS_보안_허점을_찾아라 우수상
 - Chungcheong Region Cybersecurity Competition, Winner 5th place ( Team_ 염승빈여친아랴짱 ) | 충청권 사이버보안 경진대회 장려상
 - HackTheon 2024 Finalist ( Team_ Toorist )
