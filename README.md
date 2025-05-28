@@ -31,10 +31,10 @@
 #### <u>Microsoft Skype</u>
 - [RCE](https://github.com/Cr0nu3/RCE_Exploit_in_Microsoft_Skype) (Valid report but no bounty or CVE)
 
-### <u>Korea Financial Telecommunications & Clearings Institute</u>
+#### <u>Korea Financial Telecommunications & Clearings Institute</u>
 - FVE-2025-7105-70317, Pending FVEs …
 
-### <u>KVE</u>
+#### <u>KVE</u>
 - KVE-2025-0013, Pending KVEs …
 
 #### <u>RAG & LLM (Retrieval-Augmented Generation)</u>
