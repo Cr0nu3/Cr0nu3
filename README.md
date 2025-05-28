@@ -14,6 +14,7 @@
 
 
 ### [ Competition ]
+- Hacktheon 2025 Finalist ( Team_ 스키부 )
 - Global Cyber Camp 2025 1st Team (Team_ Group2 )| GCC2025 프로젝트 1등 팀
 - The 6th TS “Find the Security Vulnerability” Competition, 2nd place ( Team_ TS(TypeScript) 큭큭.. ) | 제6회_TS_보안_허점을_찾아라 우수상
 - Chungcheong Region Cybersecurity Competition, Winner 5th place ( Team_ 염승빈여친아랴짱 ) | 충청권 사이버보안 경진대회 장려상
@@ -30,11 +31,17 @@
 #### <u>Microsoft Skype</u>
 - [RCE](https://github.com/Cr0nu3/RCE_Exploit_in_Microsoft_Skype) (Valid report but no bounty or CVE)
 
+### <u>Korea Financial Telecommunications & Clearings Institute</u>
+- FVE-2025-7105-70317, Pending FVEs …
+
+### <u>KVE</u>
+- KVE-2025-0013, Pending KVEs …
+
 #### <u>RAG & LLM (Retrieval-Augmented Generation)</u>
 - RCE & SQLi & SSRF & DoS & XSS
 - CVE-2024-12910, CVE-2025-0184, CVE-2024-12909, CVE-2024-12911,
 - CVE-2024-11958, CVE-2024-12704, CVE-2024-11824, CVE-2024-11850,
-- Pending CVE
+- CVE-2025-29189, CVE-2025-29188, Pending CVEs…
 
 #### <u>Wordpress Plugin CVE</u>
   [Profile](https://patchstack.com/database/researcher/95805911-7466-482a-8c46-58bfb026a8a0)
