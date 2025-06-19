@@ -35,7 +35,8 @@
 - FVE-2025-7105-70317, Pending FVEs …
 
 #### <u>KVE</u>
-- KVE-2025-0013, Pending KVEs …
+-KVE-2025-0013, KVE-2025-0381, KVE-2025-0419, KVE-2025-0420,
+- Pending KVEs ...
 
 #### <u>RAG & LLM (Retrieval-Augmented Generation)</u>
 - RCE & SQLi & SSRF & DoS & XSS
