@@ -55,6 +55,8 @@
 ### [ Organization ]
 - 2021 YISF (Youth Information Security Festival)
 
+### [ Paper ]
+- Retrieval-Agumented Generation 시스템의 구조적 취약성 및 공격 벡터 분석 ( 2024 정보보호 동계학술대회 )
 
 ### [ ETC ]
 - 2025 GCC(Global Cyber Camp) Taiwan Trainee
