@@ -1,5 +1,4 @@
-## Cronus
-## | <u>Eric Kim</u>
+## Cronus (Eric Kim)
 
 ### **[ Interests ]**
 - WEB Security
